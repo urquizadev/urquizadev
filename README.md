@@ -1,26 +1,25 @@
 # 👨‍💻 Farid Urquiza
 
-**Software Engineering Student**  
-Passionate about backend development and building scalable, efficient solutions.  
-Always seeking to learn new technologies and take on real-world challenges.
+**Estudiante de Ingenieria de Software**  
+Apasionado por la tecnología y el desarrollo de proyectos que generen impacto.
+Comprometido con el aprendizaje constante y la resolución creativa de problemas.
+---
+
+## 💼 Tecnologías con las que trabajo
+
+- ⚙️ Lenguajes: `Java`, `C++`, `JavaScript`, `SQL`, `Python`
+- ☕ Frameworks y Herramientas:
+  - `Spring Boot` para el desarrollo backend en Java
+  - `Angular` y `React` para el desarrollo frontend moderno
+  - `MySQL` y `PostgreSQL` para la gestión de bases de datos
+
 
 ---
 
-## 💼 Technologies I Work With
-
-- ⚙️ Languages: `Java`, `C++`, `JavaScript`, `SQL`
-- ☕ Frameworks and Tools:
-  - `Spring Boot` for backend development in Java
-  - `Angular` and `React` for modern frontend development
-  - `MySQL` and `PostgreSQL` for database management
-
-
----
-
-## 📫 Contact
+## 📫 Contacto
 
 - ✉️ Email: faridurquiza.dev8@gmail.com  
 
 ---
 
-> *"Technology is not just about code — it's about solving real problems with creativity and logic."*
+> *"La tecnología no se trata sólo de código: se trata de resolver problemas reales con creatividad y lógica."*
