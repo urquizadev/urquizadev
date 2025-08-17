@@ -1,7 +1,7 @@
-<h1 align="center">👋 ¡Hola! Soy Farid Urquiza</h1>
+<h1 align="center">👋 Hello! I'm Farid Urquiza.</h1>
 
 <p align="center">
-  🎓 <b>Estudiante de Ingeniería de Software</b> | 💻 <b>Apasionado por la tecnología</b> | 🚀 <b>En constante aprendizaje</b>
+  🎓 <b>Software Engineering Student</b> | 💻 <b>Passionate about technology</b> | 🚀 <b>In constant learning</b>
 </p>
 
 ---
@@ -26,14 +26,14 @@
 
 ---
 
-## 📌 Lo que hago actualmente
-- 📚 Aprendiendo nuevas tecnologías y frameworks
-- 🛠 Desarrollando proyectos académicos y personales
-- 🎯 Mejorando mis habilidades en programación y diseño de software
+## 📌 What I currently do
+- 📚 Learning new technologies and frameworks
+- 🛠 Developing academic and personal projects
+- 🎯 Improving my programming and software design skills
 
 ---
 
-## 📫 Conéctate conmigo
+## 📫 Connect with me
 <p align="center">
   <a href="https://linkedin.com/in/faridurquiza"><img src="https://img.shields.io/badge/LinkedIn-Farid%20Urquiza-blue?style=for-the-badge&logo=linkedin"/></a>
   <a href="https://github.com/urquizadev"><img src="https://img.shields.io/badge/GitHub-urquizadev-black?style=for-the-badge&logo=github"/></a>
@@ -42,5 +42,5 @@
 ---
 
 <p align="center">
-  ⭐ <i>Si algún repositorio te resulta útil, ¡no olvides dejar una estrella!</i> ⭐
+  ⭐ <i>If you find any repository useful, don't forget to leave a star!!</i> ⭐
 </p>
