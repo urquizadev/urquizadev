@@ -35,7 +35,7 @@
 
 ## 📫 Connect with me
 <p align="center">
-  <a href="https://linkedin.com/in/faridurquiza"><img src="https://img.shields.io/badge/LinkedIn-Farid%20Urquiza-blue?style=for-the-badge&logo=linkedin"/></a>
+  <a href="https://www.linkedin.com/in/farid-urquiza-saavedra"><img src="https://img.shields.io/badge/LinkedIn-Farid%20Urquiza-blue?style=for-the-badge&logo=linkedin"/></a>
   <a href="https://github.com/urquizadev"><img src="https://img.shields.io/badge/GitHub-urquizadev-black?style=for-the-badge&logo=github"/></a>
 </p>
 
